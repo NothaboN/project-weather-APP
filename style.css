@@ -1,0 +1,47 @@
+form {
+  text-align: center;
+  margin: 0px;
+  padding: 50px;
+}
+.location {
+  margin: 0px;
+  border: 1px;
+}
+
+h1 {
+  text-align: center;
+  color: chartreuse;
+}
+p {
+  text-align: center;
+  color: chartreuse;
+}
+h2 {
+  display: block;
+  margin: auto;
+  border: 3px solid;
+  width: 7cm;
+  height: 5cm;
+  padding: 10px;
+  border-radius: 10px;
+  color: chartreuse;
+}
+body {
+  font-family: "Kaushan Script", cursive;
+  background-image: linear-gradient(
+    to right,
+    rgb(245, 63, 8) 10%,
+    rgb(171, 12, 245) 100%
+  );
+}
+
+.list {
+  font-size: small;
+  position: relative;
+  bottom: 25px;
+  left: 100px;
+}
+
+h3 {
+  color: chartreuse;
+}
